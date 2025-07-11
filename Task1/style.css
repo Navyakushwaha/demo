@@ -1,0 +1,287 @@
+#page
+{
+    min-height: 2500px;
+    width: 1300px;
+    border: 1px solid black;
+}
+ #header
+ {
+    height: 80px;
+    width:  1300px;
+    background-color: black;
+ }
+ .t_head{
+    height: 80px;
+    width: 250px;
+    float: left;
+ }
+ .m_head
+ {
+    height: 80px;
+    width: 780px;
+    background-color: black;
+    color: rgb(0, 255, 170);
+    float: left;
+ }
+ .t_color
+ {
+    color:white;
+   
+   margin:30px; 
+   height: 50px;
+    width: 160px;
+ }
+.button
+{
+    margin-top: 5px;
+    height: 50px;
+    width: 120px;
+    background-color: rgb(49, 241, 97);
+    color: white;
+    font-weight: 200;
+    border-radius: 6px;
+    margin-left: 50px;
+}
+ #up_nav
+ {
+    height: 50px;
+    width: 1300px;
+    background-color: white;
+    border: 1px solid black;
+ }
+ #l_nav
+ {
+    height: 50px;
+    width: 480px;
+    margin-left: 20px;
+    float: left;
+ }
+ #r_nav
+ {
+    height: 50px;
+    width: 650px;
+    margin-left: 100px;
+    padding-left:0px;
+    float: left;
+ }
+ .set{
+ height: 50px;
+ float: left;
+ }
+ .size
+ {
+   height: 70px;
+   width: 80px;
+   float: left;
+ }
+ .space
+ {
+    list-style-type: none;
+    float: left;
+    margin-left: 10px;
+    margin-top: 18px;
+    color: black;
+    text-decoration: none;
+ }
+ #navbar
+ {
+    height: 70px;
+    width: 1300px;
+    background-color: white;
+ }
+ #nav_logo
+ {
+  height: 70px;
+  width:550px ;
+  float: left;
+ }
+ #sty
+ {
+   margin-bottom: 50px;
+ }
+ #nav_point_logo
+ {
+  height: 70px;
+  width:650px ;
+  float: left;   
+ }
+ .nav_point
+ {
+   list-style-type: none;
+    color: black;
+    text-decoration: none;
+    float: left;
+    margin-left: 40px;
+    margin-top: 18px;
+ }
+
+
+
+ #img_sec
+ {
+    height: 400px;
+    width: 1300px;
+    background-image: url(i.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    /* background: rgba(0, 0, 0, 0.1 ); */
+ }
+
+ #local
+ {
+    height: 200px;
+    width: 1300px;
+    background-color: white;
+ }
+#card
+{
+    height: 1200px;
+    width: 1300px;
+    background-color: white;
+} 
+  .l_card
+ {
+    height: 1000px;
+    width: 100px;
+    background-color: white;
+    float: left;
+ }
+ #m_card
+ {
+    height: 1000px;
+    width: 1100px;
+    background-color: white; 
+    float: left;
+    
+ }
+ .img_row_div
+ {
+    height: 400px;
+    width:250px;
+    background-color: white;
+    float: left;
+    
+   border: 1px solid  black;
+   margin: 7px;
+   
+    
+ }
+ .text_st
+ {
+   font-size: larger;
+   font-weight: 400px;
+ }
+ .part_div
+ {
+    height:200px ;
+    width: 245px;
+ }
+ .image_sz
+ {
+    height: 200px;
+    width: 245px;
+ }
+
+ #level_btn
+ {
+   height: 100px;
+   width: 1300px;
+   background-color: aqua;
+ }
+ .l_level
+ {
+   height: 100px;
+   width: 450px;
+   float: left;
+ }
+ .m_level
+ {
+   height: 100px;
+   width: 390px;
+   float: left;
+ 
+ }
+ .colr_btn
+ {
+   height: 50px;
+   width: 50px;
+   background-color: rgb(240, 154, 42);
+   color: white;
+   float: left;
+     margin-left: 7px;
+ }
+ .simple_btn
+ {
+   height: 50px;
+   width: 50px;
+   float: left;
+     margin-left: 7px;
+   
+ }
+ .nxt_btn
+ {
+   height: 50px;
+   width: 100px;
+   float: left;
+     margin-left: 7px;
+ }
+
+ #f_size
+ {
+   height: 500px;
+   width: 1300px;
+   background-color: black;
+   margin-top: 100px;
+ }
+ .space_farea
+ {
+   height:500px;
+   width: 50px;
+   float: left;
+   background-color: black;
+ }
+  .l_side
+ {
+    height:500px;
+   width: 300px;
+   float: left;
+   background-color: black;
+   color: white;
+ }
+ .la_side
+ {
+    height:500px;
+   width: 100px;
+   float: left;
+   background-color: black;
+ }
+  .m_side
+ {
+    height:500px;
+   width: 200px;
+   float: left;
+   background-color: black;
+ }
+ .fimg_size
+ {
+   height: 150px;
+   width:250px;
+ }
+ .f-color
+ {
+   color: white;
+ }
+ .fn-color
+ {
+   color: white;
+   list-style-type: none;
+   margin-left: 8px;
+ }
+ .contact
+ {
+   height: 80px;
+   width: 300px;
+   background-color: black;
+   color: white;
+ }

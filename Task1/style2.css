@@ -1,0 +1,125 @@
+
+  body {
+    background-color: rgb(25, 121, 25);
+  }
+.outer_box
+{
+    height: 600px;
+    width: 1000px;
+    margin: 150px;
+    border-radius: 5%;
+    background-color: white;
+    
+}
+.l_box{
+    height: 600px;
+    width: 495px;
+    border: 1px solid black;
+    float: left;
+    background-color: rgb(3, 66, 63);
+    border-radius: 5% 25% 25% 5%;
+}
+.r_box{
+    height: 600px;
+    width: 500px;
+    float: left;
+    border-radius: 5%;
+}
+.h1_sty{
+    color: white;
+    margin-top: 150px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   font-size: 350%;
+}
+.h1_sty1{
+    color: black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+   font-size: 320%;
+}
+p{
+    color: white;
+    text-align: center;
+     font-size: 150%;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     
+}
+.btn_size
+{
+    height: 50px;
+    width: 180px;
+    color: white;
+    background-color: rgb(3,66,63);
+    border: 1px solid white;
+    margin-left: 150px;
+}
+.btn_size1
+{
+    height: 50px;
+    width: 180px;
+    color: white;
+    background-color: rgb(72, 126, 2);
+    border: 1px solid white;
+    margin-left: 150px;
+}
+h1{
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif ;
+   
+}
+.display
+{
+display: flex;
+height: 50px;
+width: 280px;
+margin-left: 120px;
+}
+.logo_sty
+{
+    height: 38px;
+    width: 60px;
+    color: rgb(5, 27, 5);
+    border: 3px solid rgba(5,27,5);
+   border-radius: 12px;
+   margin: 5px;
+   padding: 12px;
+
+}
+
+big{
+    margin-left: 60px;
+}
+.input_sty
+{
+    height: 40px;
+    width: 300px;
+    background-color: rgb(187, 183, 179);
+    margin-left: 80px;
+    border: 1px solid rgb(207, 194, 176);
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+    
+}
+
+.outer{
+    height:50px; 
+    width:250px;
+
+    display:flex ;
+    justify-content:space-evenly ;
+    align-items:center ;
+}
+.inner{
+    height: 40px;
+    width:40px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    display:flex ;
+    justify-content:center ;
+    align-items: center;
+}
+
